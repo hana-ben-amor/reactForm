@@ -1,0 +1,18 @@
+form{
+    display: inline-block;
+    padding: 30px;
+    width: 630px;
+    margin-left:60px;
+    background-image: url("../../../src/background.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-top:50px;
+    color: white;
+    text-align: left;
+}
+form button{
+    margin-top: 10px;
+    margin-left: 180px;
+    width: 220px;
+    height: 40px;
+}
